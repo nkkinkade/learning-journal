@@ -1,2 +1,6 @@
+Day One
 
-* Mark Down
+1. Explain Growth Mindset
+# text
+
+2. Three reminders 
