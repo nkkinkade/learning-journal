@@ -1,4 +1,4 @@
-# Title Reading Assignment from class one. 
+# Reading Assignment from class one. 
 
 
 - Technical Requirements.
