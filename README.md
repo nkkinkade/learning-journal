@@ -1,7 +1,6 @@
-# learningJournalcr102d8
+# learningJournalCr102d8
 
-# Testing this
 
-## Testing again
+Table of Contents 
 
-Lab 01b for 102
+- [Learning Journal from Class One](/Reading-01.md)
