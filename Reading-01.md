@@ -1,14 +1,15 @@
 # Reading Assignment from class one. 
 
+## 1. Headings
+   - # denotes the biggest heading
+   - ### denotes the third biggest heading
+   - ###### denotes the sixth biggest heading
 
-- Technical Requirements.
-
-on the GitHub platform.
-
-What you will learn:
-
-How the Markdown format makes styled collaborative editing easy
-How Markdown differs from traditional formatting approaches
-How to use Markdown to format text
-How to leverage GitHub’s automatic Markdown rendering
-How to apply GitHub’s unique Markdown extensions
+## 2. Styling Text
+   - ** ** for **bold**
+   - _ _ for *italics*
+   - ~~ ~~ for ~~strikethrough~~
+      
+## 3. Emojis! (remove spaces)
+   - : +1 : gets you :+1:
+   - : shipit : becomes :shipit:
