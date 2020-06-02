@@ -9,6 +9,6 @@
    - _ _ for *italics*
    - ~~ ~~ for ~~strikethrough~~
       
-## 3. Emojis!
+## 3. Emojis! (remove spaces)
    - : +1 : gets you :+1:
    - : shipit : becomes :shipit:
