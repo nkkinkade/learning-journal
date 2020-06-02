@@ -1,6 +1,9 @@
-Day One
+# Day One
 
-1. Explain Growth Mindset
+## Explain Growth Mindset
+
+:EMOJICODE: :+1:
+
 # text
 
 2. Three reminders 
