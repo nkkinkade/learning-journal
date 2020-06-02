@@ -6,9 +6,9 @@
 
 ## 2. Styling Text
    - ** ** for **bold**
-   - * * for *italics*
+   - _ _ for *italics*
    - ~~ ~~ for ~~strikethrough~~
       
 ## 3. Emojis!
-   - :+1:
-   - :shipit:
+   - : +1 : gets you :+1:
+   - : shipit : becomes :shipit:
