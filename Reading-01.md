@@ -1,9 +1,9 @@
 # Reading Assignment from class one. 
 
 ## 1. Headings
-   - # denotes the biggest heading
-   - ### denotes the third biggest heading
-   - ###### denotes the sixth biggest heading
+   - "#" denotes the biggest heading
+   - "###" denotes the third biggest heading
+   - "######" denotes the sixth biggest heading
 
 ## 2. Styling Text
    - ** ** for **bold**
