@@ -7,4 +7,4 @@
 = yo
 *test*
 
-[GitHub}(https://GitHub.com)
+[GitHub](https://GitHub.com)
