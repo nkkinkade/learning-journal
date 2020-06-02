@@ -11,5 +11,5 @@
    - ~~ ~~ for ~~strikethrough~~
       
 ## 3. Emojis! (remove spaces)
-   - : +1 : gets you :+1:
+   - ":+1:" gets you :+1:
    - : shipit : becomes :shipit:
