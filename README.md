@@ -1,1 +1,1 @@
-->Nathan's Learning Journal<-
+:-: Nathan's Learning Journal
