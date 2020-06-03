@@ -1,2 +1,2 @@
 Nathan's Learning Journal
-:----:
+:-:
