@@ -10,3 +10,5 @@
 |[Class 5 Reading Assignment](/Reading-05.md)|[Lab 05](https://nkkinkade.github.io/partner-assignment/)|
 |[Class 6a Reading Assignment](/Reading-06a.md)|[Lab 06](/dfa.md)|
 |[Class 6b Reading Assignment](/Reading-06b.md)|    |
+|[Class 7 Reading Assignment](/Reading-07.md)|[Lab 07](/dfa.md)|
+|[Class 8 Reading Assignment](/Reading-08.md)|[Lab 08](/dfa.md)|
